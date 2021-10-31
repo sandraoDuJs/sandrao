@@ -1,0 +1,157 @@
+header{
+    border: 8px grey solid;
+    height:15vh;
+    background-color: bisque; 
+}
+
+nav{
+    background-color: bisque; 
+    margin: 0 auto;
+}
+ul{
+    line-height: 10vh;
+    background-color: bisque;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+}
+ul li{
+    color: white;
+    margin: 0 10px;
+    text-align: center;
+    
+}
+.box1{
+    background-color: rgb(147, 147, 229);
+    width: 50vw;
+    height: 100vh;
+    border: 8px grey solid;
+}
+
+.box2{
+    display: flex;
+    flex-direction: column;
+    background-color: #0d5555a2;
+    width: 50vw;
+    height: 100vh;
+    border: 8px grey solid;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+}
+
+.aside1{
+    width: 50vw;
+    height: 19vh;
+    background-color: rgb(209, 141, 39);
+    border: 3px solid grey;
+}
+.aside2{
+    width: 50vw;
+    height: 19vh;
+    border: 3px solid grey;
+    background-color: honeydew;
+}
+.aside3{
+    
+    width: 50vw;
+    height: 19vh;
+    border: 3px solid grey;
+    background-color: honeydew;
+    
+}
+.aside4{
+    width: 50vw;
+    height: 19vh;
+    border: 3px solid grey;
+    background-color: honeydew;    
+}
+.aside5{
+    
+    width: 50vw;
+    height: 19vh;
+    border: 3px solid grey;
+    background-color: honeydew;
+}
+.aside6{
+    
+    width: 50vw;
+    height: 19vh;
+    border: 3px solid grey;
+    background-color: honeydew;
+}
+.aside7{
+    
+    width: 50vw;
+    height: 19vh;
+    border: 3px solid grey;
+    background-color: honeydew;
+}
+
+.aside8{
+    
+    width: 50vw;
+    height: 19vh;
+    border: 3px solid grey;
+    background-color: honeydew;    
+}
+.aside9{
+    
+    width: 50vw;
+    height: 19vh;
+    border: 3px solid grey;
+    background-color: honeydew;    
+}
+.aside10{
+    
+    width: 50vw;
+    height: 19vh;
+    border: 3px solid grey;
+    background-color: honeydew;    
+}
+
+.coluna1{
+    display: flex;
+    flex-direction: row;
+}
+
+.coluna2{
+    display: flex;
+    flex-direction: row;    
+}
+
+.coluna3{
+    display: flex;
+    flex-direction: row;
+}
+
+.coluna4{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.coluna5{
+    display: flex;
+    flex-direction: row;
+}
+
+footer{
+    border: 8px grey solid;
+    padding-top: 20px;
+    height: 14vh;
+    background-color: darkgreen;
+}
+ol{
+    color: white;
+    list-style: none;
+    margin: 24px 224px;
+}
+ol li{
+    position: relative;
+    bottom: 15px;
+}
